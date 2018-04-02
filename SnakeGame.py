@@ -62,7 +62,7 @@ def gameLoop():
 	bonus_radius = 6
 	
 	score = 0
-	L = [[x,y]]
+	L = [[x,y]]#list that keeps track of snakes location
 	while not gameExit:
 
 		gameDisplay.fill(white)
