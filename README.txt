@@ -1,0 +1,2 @@
+This is a basic snake game made using pygame library of python. Any suggestions would be welcomed.
+Logic of the snake is implemented using a list which stores the position of the previous block of the snake and the current block follows it in the next iteration.
